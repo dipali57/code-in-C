@@ -1,3 +1,3 @@
 # code-in-C
-some basic code in c language
+some basic code in c language-
 pattern programs
